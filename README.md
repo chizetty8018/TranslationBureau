@@ -2,6 +2,11 @@
  
 ![Build 
 Status](https://github.com/chizetty8018/TranslationBureau/actions/workflows/build.yml/badge.svg) 
+
+
+[![Build, Test and Publish](https://github.com/chizetty8018/TranslationBureau/actions/workflows/build.yml/badge.svg)](https://github.com/chizetty8018/TranslationBureau/actions/workflows/build.yml)
+
+
  
 Web-приложение баз данных «Бюро переводов», разработанное в ходе изучения 
 дисциплины «Разработка приложений баз данных для информационных систем». 
